@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap");
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.banner-text h1 {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 65px;
+  line-height: 85px;
+  text-align: center;
+  color: #ffffff;
+}
+.banner-text p {
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 30px;
+  text-align: center;
+  color: #f4f4f4;
+}
+.courses-text h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 45px;
+  line-height: 60px;
+  text-align: center;
+  color: #1d1d1d;
+}
